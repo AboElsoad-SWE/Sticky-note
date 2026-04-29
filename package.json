@@ -5,7 +5,7 @@
   "main": "src/server.ts",
   "scripts": {
     "start": "ts-node src/server.ts",
-    "dev": "nodemon --watch src -e ts,ejs,css --exec ts-node src/server.ts"
+    "dev": "nodemon ./src/server.ts"
   },
   "dependencies": {
     "ejs": "^3.1.9",
