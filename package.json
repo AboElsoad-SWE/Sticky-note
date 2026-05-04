@@ -1,7 +1,7 @@
 {
-  "name": "sticky-note",
+  "name": "task-manager-api",
   "version": "1.0.0",
-  "description": "Simple sticky notes app",
+  "description": "Task Manager and Kanban board backend API",
   "main": "src/server.ts",
   "scripts": {
     "start": "ts-node src/server.ts",
